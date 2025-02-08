@@ -39,3 +39,4 @@ https://github.com/thuml/Time-Series-Library
 
 https://github.com/ts-kim/RevIN
 
+https://github.com/SynodicMonth/ChebyKAN
