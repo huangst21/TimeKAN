@@ -40,3 +40,19 @@ https://github.com/thuml/Time-Series-Library
 https://github.com/ts-kim/RevIN
 
 https://github.com/SynodicMonth/ChebyKAN
+
+
+## Citation
+
+If you find this repository useful for your work, please consider citing it as follows:
+
+```BibTeX
+@inproceedings{
+  huang2025timekan,
+  title={Time{KAN}: {KAN}-based Frequency Decomposition Learning Architecture for Long-term Time Series Forecasting},
+  author={Songtao Huang and Zhen Zhao and Can Li and LEI BAI},
+  booktitle={The Thirteenth International Conference on Learning Representations},
+  year={2025},
+  url={https://openreview.net/forum?id=wTLc79YNbh}
+}
+```
